@@ -22,7 +22,7 @@
 ![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/-YSpfQcgGdU.jpg)
 
 + Диаграмма прецедентов и [код для её построения](https://github.com/GurovAA/guraa.github.io/blob/master/prec.txt)
-![none](https://github.com/GurovAA/guraa.github.io/blob/master/fL4xJiD04AspfnYvWY8I1q0e2RKbTzGhUqciE5wqNek28F4fk00zKD66X1MM0USAunlnaaqa8z4Xo-Fn-ymyhmU5bSQMiqmKqpI_a4REICPM6xeIlP6CfsEZopmvrHcWiqbgbUWDZT6N7Xbba42eJQ9C5xhkp2iB5Sj2_NjYfiujMKqc7Kyi9QbHiKrrBdpUw8XaGG6_ikDFRdY9Pntio717FhKte5.png)
+![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/NGWCSB2Z1-A.jpg)
 
 ## Лабораторная 2
 
