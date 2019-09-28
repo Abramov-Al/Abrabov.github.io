@@ -9,7 +9,7 @@
 
 + Диаграмма IDEF0:
 
-![http://127.0.0.1:58156/idef0/index.html?id=6](https://github.com/GurovAA/guraa.github.io/blob/master/model.png)
+![http://127.0.0.1:58156/idef0/index.html?id=6](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/model.png)
 [Проект для рамуса](https://github.com/GurovAA/guraa.github.io/blob/master/Laba1.rsf)
 
 Разработчик документирует программный код в среде разработки, соблюдая правила оформления документации, по окончанию процесса документирования получается докумнтация для разработка.
