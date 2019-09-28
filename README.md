@@ -19,6 +19,7 @@
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 + Диаграмма классов и [код для её построения](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/class)
+
 ![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/-YSpfQcgGdU.jpg)
 
 + Диаграмма прецедентов и [код для её построения](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/prec)
