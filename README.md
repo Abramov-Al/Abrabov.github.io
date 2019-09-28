@@ -21,7 +21,7 @@
 + Диаграмма классов и [код для её построения](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/class)
 ![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/-YSpfQcgGdU.jpg)
 
-+ Диаграмма прецедентов и [код для её построения](https://github.com/GurovAA/guraa.github.io/blob/master/prec.txt)
++ Диаграмма прецедентов и [код для её построения](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/prec)
 ![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/NGWCSB2Z1-A.jpg)
 
 ## Лабораторная 2
