@@ -19,7 +19,7 @@
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 + Диаграмма классов и [код для её построения](https://github.com/GurovAA/guraa.github.io/blob/master/сlass.txt)
-![none](https://github.com/GurovAA/guraa.github.io/blob/master/RP0nJWCn44Nh-1IZL21nY10kG4TjxQx8AfiriZUYG4W841GKDFJ03HP8X5asvWhVD-BBeOX86aj-y-RFQ4QkqRQPpohbfcLzfgsUILPfv-H23SOwcvvQCw_p8rCPAoUJiYdKuD1QSxucuueAHMFpmcwYIxLE6U85BJxZ5TytX7WTx-7H3KKxEUOCmIjhIopGIf8sL7Jm2ay8wE8DUbehmZ.png)
+![none](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/-YSpfQcgGdU.jpg)
 
 + Диаграмма прецедентов и [код для её построения](https://github.com/GurovAA/guraa.github.io/blob/master/prec.txt)
 ![none](https://github.com/GurovAA/guraa.github.io/blob/master/fL4xJiD04AspfnYvWY8I1q0e2RKbTzGhUqciE5wqNek28F4fk00zKD66X1MM0USAunlnaaqa8z4Xo-Fn-ymyhmU5bSQMiqmKqpI_a4REICPM6xeIlP6CfsEZopmvrHcWiqbgbUWDZT6N7Xbba42eJQ9C5xhkp2iB5Sj2_NjYfiujMKqc7Kyi9QbHiKrrBdpUw8XaGG6_ikDFRdY9Pntio717FhKte5.png)
