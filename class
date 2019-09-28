@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "строитель" as P {
+ набор инструментов
+ сарай строить сарай (строительный материал, чертёж)
+}
+hide circle
+@enduml
