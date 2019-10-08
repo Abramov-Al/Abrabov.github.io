@@ -27,7 +27,7 @@
 
 ## Лабораторная 2
 
-Диаграмма IDEF0:
+Диаграмма PDC:
 
 ![http://127.0.0.1:55027/idef0/index.html?id=5&h=768&w=1024](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/PDC.png)
 [Ссылка на .rsf файл](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
