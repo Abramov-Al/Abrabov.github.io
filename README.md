@@ -29,6 +29,8 @@
 
 Диаграмма IDEF0:
 
+![http://127.0.0.1:55027/idef0/index.html?id=5&h=768&w=1024](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/model.png)
+[Проект для рамуса](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
 
 
 ## Лабораторная 3
