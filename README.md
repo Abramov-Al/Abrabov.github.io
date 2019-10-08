@@ -27,6 +27,11 @@
 
 ## Лабораторная 2
 
+Диаграмма IDEF0:
+
+![http://127.0.0.1:58156/idef0/index.html?id=6](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/model.png)
+[Проект для рамуса](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
+
 ## Лабораторная 3
 
 ## Лабораторная 4
