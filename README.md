@@ -32,6 +32,11 @@
 ![http://127.0.0.1:55027/idef0/index.html?id=5&h=768&w=1024](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/PDC.png)
 [Ссылка на .rsf файл](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
 
+Диаграмма DFD:
+
+![http://127.0.0.1:50837/idef0/index.html?id=16&w=1024&h=768](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/DFD.png)
+[Ссылка на .rsf файл](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
+
 
 ## Лабораторная 3
 
