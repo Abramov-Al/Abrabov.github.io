@@ -48,6 +48,8 @@ DFD:
 ![http://www.plantuml.com/plantuml/png/RP51IiD058RNdLCCtMUJfKYfzH2kfysWeKacJ2QAY936hU1I44HxWrgehOr9h_3c95x1zvfKcjh5GFBuld_-n_mKctvYX3Pf6B1ax4Unq2BaOcIKvdUiCn2ZyQLMQUITgm175rU-aQnpfhMwgIU30144bVQatX_TCv4Q5QNXK6h6wiGkJ6rkCwXWPNDOG64VkrmaF4sG6T8rGjyYzORC2WhaFf4gyNknvKGSxsElC8CFg6p6aIZjXBAH_oR7vcZFTvRB6Dt1dHxzdN1uHdL3JUo4kldNmiXjF1wdHsm3hV4icITRK1DMfxb8_bkBoi0SgbQuI-dyrDbPBsYKZOdEaI8D-8wXI_j04CRERCvXtNAV3XkI-BV759KCz_Wwe5pMbv67J_yB](https://github.com/Abramov-Al/Abramov.github.io/blob/master/DiagPosl.png)
 [Код:](https://github.com/Abramov-Al/Abramov.github.io/blob/master/DiagPosl.txt)
 
+
+
 ## Лабораторная 4
 
 ## Лабораторная 5
