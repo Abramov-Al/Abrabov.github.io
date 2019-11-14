@@ -37,8 +37,11 @@
 ![http://127.0.0.1:50837/idef0/index.html?id=16&w=1024&h=768](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/DFD.png)
 [Ссылка на .rsf файл](https://github.com/Abramov-Al/Abrabov.github.io/blob/master/stroyka.rsf)
 
-
 ## Лабораторная 3
+
+DFD:
+
+![http://127.0.0.1:50271/idef0/index.html?w=1024&h=768&id=18&printVersion=true&h=768&w=1024](https://github.com/Abramov-Al/Abramov.github.io/blob/master/L3_DFD.png)
 
 ## Лабораторная 4
 
