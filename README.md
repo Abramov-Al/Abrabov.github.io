@@ -41,7 +41,7 @@
 
 DFD:
 
-![http://127.0.0.1:50271/idef0/index.html?w=1024&h=768&id=18&printVersion=true&h=768&w=1024](https://github.com/Abramov-Al/Abramov.github.io/blob/master/L3_DFD.png)
+![http://127.0.0.1:50271/idef0/index.html?w=1024&h=768&id=18&printVersion=true&h=768&w=1024](https://github.com/Abramov-Al/Abramov.github.io/blob/master/L3_DFD1.png)
 
 Диаграмма последовательности:
 
