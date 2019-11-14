@@ -50,7 +50,7 @@ DFD:
 
 ERD:
 
-!https://github.com/Abramov-Al/Abramov.github.io/blob/master/L3_ERD.png
+![https://raw.githubusercontent.com/Abramov-Al/Abramov.github.io/master/L3_ERD.png](https://github.com/Abramov-Al/Abramov.github.io/blob/master/L3_ERD.png)
 
 ## Лабораторная 4
 
